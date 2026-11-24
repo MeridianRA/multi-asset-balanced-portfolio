@@ -1,0 +1,13 @@
+parameter,portfolio,nifty_50
+cagr,12.94,10.97
+volatility,9.34,13.72
+sharpe_ratio,1.37,0.84
+sortino_ratio,1.91,1.20
+max_drawdown,-12.04,-16.44
+correlation,0.82,1.00
+rolling_returns_1y,2.48,-0.49
+rolling_returns_3y,13.75,10.68
+rolling_returns_5y,11.58,9.01
+positive_months,43.00,38.00
+positive_months_pct,67.19,59.38
+portfolio_value,192671.16,175189.05
